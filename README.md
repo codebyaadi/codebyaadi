@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya
 - 👀 I’m interested in Web Designing & Coding
-- 🌱 I’m currently learning How to develop a Creative website with React.js
+- 🌱 I’m currently learning Data Science & Machine Learning
 - 💞️ I’m looking to collaborate on Developing Website
 - 📫 How to reach me - instagram - @uixaadi
 
