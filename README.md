@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya
 - 👀 I’m interested in Web Designing & Coding
 - 🌱 I’m currently learning Data Science & Machine Learning
-- 💞️ I’m looking to collaborate on Developing Website
+- 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me - instagram - @uixaadi
 
 <!---
