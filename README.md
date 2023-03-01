@@ -36,6 +36,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 📜 Certificates
+
+[![Certificate of Completion](https://www.dropbox.com/s/xyrxz5umz0nsw6f/Badge.png?raw=1)](https://www.futurelearn.com/certificates/g4g8e4p) 
+[![Certificate of Completion](https://www.dropbox.com/s/oencpmijt3mjjxy/JS.png?raw=1)](https://www.hackerrank.com/certificates/9087208b2dcf)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=uixaadi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -47,4 +51,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
