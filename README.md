@@ -36,10 +36,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📜 Certificates
+## 📜 Certificates:
 
-[![Certificate of Completion](https://www.dropbox.com/s/xyrxz5umz0nsw6f/Badge.png?raw=1)](https://www.futurelearn.com/certificates/g4g8e4p) 
-[![Certificate of Completion](https://www.dropbox.com/s/oencpmijt3mjjxy/JS.png?raw=1)](https://www.hackerrank.com/certificates/9087208b2dcf)
+[![HackerRank Certificate](https://img.shields.io/badge/HackerRank%20Certificate-JavaScript%20(Intermediate)-1BA94C?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/certificates/9087208b2dcf)
+[![FutureLearn Certificate](https://img.shields.io/badge/FutureLearn%20Certificate-Digital%20Skills:%20User%20Experience-DE00A5?style=for-the-badge&logo=FutureLearn)](https://www.futurelearn.com/certificates/g4g8e4p)
+
+
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=uixaadi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
