@@ -38,11 +38,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📜 Certificates:
+## 📜 Certificates & Badges:
 
 [![freeCodeCamp Certificate](https://img.shields.io/badge/freeCodeCamp%20Certificate-FRONT%20END%20DEVELOPMENT%20LIBRARIES-008080?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/certification/uixaadi/front-end-development-libraries)
 [![HackerRank Certificate](https://img.shields.io/badge/HackerRank%20Certificate-JavaScript%20(Intermediate)-1BA94C?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/certificates/9087208b2dcf)
 [![FutureLearn Certificate](https://img.shields.io/badge/FutureLearn%20Certificate-Digital%20Skills:%20User%20Experience-DE00A5?style=for-the-badge&logo=FutureLearn)](https://www.futurelearn.com/certificates/g4g8e4p)
+[![Postman](https://img.shields.io/badge/Postman%20Badge-Postman%20API%20Fundamentals%20Student%20Expert-FF6C37?style=for-the-badge&logo=Postman)](https://badgr.com/backpack/badges/6469be5fc2cee4571431a90f)
+
 
 
 ## 📊 GitHub Stats:
