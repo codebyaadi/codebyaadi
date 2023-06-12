@@ -41,6 +41,7 @@
 [![HackerRank Certificate](https://img.shields.io/badge/HackerRank%20Certificate-JavaScript%20(Intermediate)-1BA94C?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/certificates/9087208b2dcf)
 [![FutureLearn Certificate](https://img.shields.io/badge/FutureLearn%20Certificate-Digital%20Skills:%20User%20Experience-DE00A5?style=for-the-badge&logo=FutureLearn)](https://www.futurelearn.com/certificates/g4g8e4p)
 [![Postman](https://img.shields.io/badge/Postman%20Badge-Postman%20API%20Fundamentals%20Student%20Expert-FF6C37?style=for-the-badge&logo=Postman)](https://badgr.com/backpack/badges/6469be5fc2cee4571431a90f)
+[![Coursera Certificate](https://img.shields.io/badge/Coursera%20Certificate-Machine%20Learning%20with%20Python-0056D2?style=for-the-badge&logo=Coursera)](https://www.coursera.org/account/accomplishments/certificate/2325RB3KNH96)
 
 
 
