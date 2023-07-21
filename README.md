@@ -54,9 +54,9 @@
 
 <!-- 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=uixaadi&theme=gotham&response=false&border=false&time=false&icon=default)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
+[![](https://gtce.itsvg.in/api?username=uixaadi&theme=gotham&response=false&border=false&time=false&icon=default)](https://github.com/VishwaGauravIn/github-twitter-card-embed) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+-->
 
