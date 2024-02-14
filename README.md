@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hello! My name is Aditya, and I am a Full Stack Developer ( MERN ).<br>👀 I have a strong interest in the fields of Programming and Developing.<br>🌱 Currently, I am focused on expanding my knowledge of Data Science and Machine Learning.<br>💻 I am continuously learning and practicing to enhance my skills and abilities in web development.<br>💪 Overall, I am highly motivated and enthusiastic about the opportunities available in the web development industry.<br>🙏 Thank you for taking the time to learn a little bit about me, and I look forward to the possibility of working together in the future!
+👋 Hello! My name is Aditya, and I am a Full Stack Developer ( MERN ).<br>👀 I have a strong interest in the fields of Programming and Developing.<br>🌱 Currently, I am focused on expanding my knowledge of AI.<br>💻 I am continuously learning and practicing to enhance my skills and abilities in web development.<br>💪 Overall, I am highly motivated and enthusiastic about the opportunities available in the web development industry.<br>🙏 Thank you for taking the time to learn a little bit about me, and I look forward to the possibility of working together in the future!
 
 
 ## 🌐 Socials:
