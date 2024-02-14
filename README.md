@@ -52,7 +52,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=codebyaadi&theme=react&hide_border=true&show_icons=true&locale=en)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codebyaadi&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=codebyaadi&theme=react&hide_border=true&show_icons=true&locale=en&layout=compact)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&theme=react&hide_border=true&show_icons=true&locale=en&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=codebyaadi&theme=react&hide_border=true&show_icons=true&locale=en&layout=compact)
 
 
 <!-- 
