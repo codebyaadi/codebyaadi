@@ -27,7 +27,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 ![Prisma](https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -40,11 +39,13 @@
 
 ## 📜 Certificates & Badges:
 
-[![freeCodeCamp Certificate](https://img.shields.io/badge/freeCodeCamp%20Certificate-FRONT%20END%20DEVELOPMENT%20LIBRARIES-008080?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/certification/uixaadi/front-end-development-libraries)
+[![freeCodeCamp Certificate](https://img.shields.io/badge/freeCodeCamp%20Certificate-FRONT%20END%20DEVELOPMENT%20LIBRARIES-008080?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/certification/codeaadi/front-end-development-libraries)
+[![freeCodeCamp Certificate](https://img.shields.io/badge/freeCodeCamp%20Certificate-BACK%20END%20DEVELOPMENT%20LIBRARIES-008080?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/certification/codebyaadi/back-end-development-and-apis)
 [![HackerRank Certificate](https://img.shields.io/badge/HackerRank%20Certificate-JavaScript%20(Intermediate)-1BA94C?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/certificates/9087208b2dcf)
 [![FutureLearn Certificate](https://img.shields.io/badge/FutureLearn%20Certificate-Digital%20Skills:%20User%20Experience-DE00A5?style=for-the-badge&logo=FutureLearn)](https://www.futurelearn.com/certificates/g4g8e4p)
 [![Postman](https://img.shields.io/badge/Postman%20Badge-Postman%20API%20Fundamentals%20Student%20Expert-FF6C37?style=for-the-badge&logo=Postman)](https://badgr.com/backpack/badges/6469be5fc2cee4571431a90f)
 [![Coursera Certificate](https://img.shields.io/badge/Coursera%20Certificate-Machine%20Learning%20with%20Python-0056D2?style=for-the-badge&logo=Coursera)](https://www.coursera.org/account/accomplishments/certificate/2325RB3KNH96)
+[![Coursera Certificate](https://img.shields.io/badge/Coursera%20Certificate-Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras-0056D2?style=for-the-badge&logo=Coursera)](https://www.coursera.org/account/accomplishments/certificate/ANGYUX83C299)
 
 
 
